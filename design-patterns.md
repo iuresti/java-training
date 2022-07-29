@@ -16,4 +16,6 @@ compartido una gran cantidad de aprendizajes, tenemos que aprovecharlo.
 En este ejercicio practicaremos el uso de patrones de diseño y tendremos un primer acercamiento a 
 los principios SOLID
 
--> Ejercicio: https://github.com/iuresti/design-patterns-exercise
+Ejercicio (hacer fork): 
+
+https://github.com/iuresti/design-patterns-exercise
