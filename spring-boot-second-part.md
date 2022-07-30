@@ -14,5 +14,7 @@ Hacer fork del repo: https://github.com/iuresti/peopleandcars-exercise
    endpoints
 4. Utilizar la especificación para generar una postman collection que permitirá testear el proyecto
 
+Información sobre proyectos multi-modulo puede encontrarse [aqui](https://spring.io/guides/gs/multi-module/)
+
 
 
