@@ -21,7 +21,7 @@ El sistema permite crear relaciones entre las personas y los carros bajo las sig
 restricciones:
 
 - una persona puede ser dueña de muchos carros
-- Un carro solo le pertenece a una persona
+- Un carro le puede pertenecer de cero a 2 personas
 - Puede haber personas sin carros
 - Puede haber carros sin personas
 
