@@ -35,3 +35,6 @@ Adicional:
 Requerimientos:
 
 > Usar docker para correr el SMBD, puede ser cualquiera.
+
+Puedes usar esta [postman collection](tests/People&Cars%201.postman_collection.json) para probar los
+endpoints
